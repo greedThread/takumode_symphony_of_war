@@ -4,7 +4,7 @@ SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모�
 
 <table>
 <tr><td><img src="images/hero-f-before.png" width="400" alt=""></td><td><img src="images/hero-f-after.png" width="400" alt=""></td></tr>
-<tr><td><img src="images/hero-m-before.png" width="400" alt=""></td><td><img src="images/hero-m-after.png" width="400" alt=""></td></tr>
+<tr><td><img src="images/hero-m-before.png?v=white-bg-103" width="400" alt=""></td><td><img src="images/hero-m-after.png?v=white-bg-103" width="400" alt=""></td></tr>
 <tr><td><img src="images/title-base-before.png" width="400" alt=""></td><td><img src="images/title-base-after.png" width="400" alt=""></td></tr>
 <tr><td><img src="images/title-legends-before.png" width="400" alt=""></td><td><img src="images/title-legends-after.png" width="400" alt=""></td></tr>
 </table>
