@@ -1,4 +1,4 @@
-# Symphony Of War TA-KU mode 1.0.2
+# Symphony Of War TA-KU mode 1.0.3
 
 SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모드입니다.
 
@@ -8,22 +8,18 @@ SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모�
 <tr><td><img src="images/title-legends-before.png" width="400" alt=""></td><td><img src="images/title-legends-after.png" width="400" alt=""></td></tr>
 </table>
 
-## 1.0.2 변경 사항
+## 1.0.3 변경 사항
 
-변경 사항
-- 일러스트 위치 조정
-- 원본 캐릭터의 나이와 맞지않는 묘사에 대한 수정
+- 강인한 여성 모드 추가
+- 스테판 음성 수정
 
-버그 수정
-- 일반판에서 동작하지 않는 문제 수정
-
-설치 시 일반판 / LEGENDS 원본을 자동 판단해 적용합니다.
+![게임 적용 화면](images/gameplay-1.0.3.png)
 
 ## 다운로드
 
 **[최신 버전 다운로드](https://github.com/greedThread/takumode_symphony_of_war/releases/latest)**
 
-Releases의 `TA-KU-mode-1.0.2.zip`을 받으세요. `Source code` 파일은 설치 패키지가 아닙니다.
+Releases의 `TA-KU-mode-1.0.3.zip`을 받으세요. `Source code` 파일은 설치 패키지가 아닙니다.
 
 ## 설치 및 업데이트
 
@@ -33,7 +29,7 @@ Releases의 `TA-KU-mode-1.0.2.zip`을 받으세요. `Source code` 파일은 설�
 2. `TA-KU-mode-Installer.exe`를 실행합니다.
 3. SymphonyOfWar가 설치되어 있는 폴더를 선택합니다.
    예: `C:\Program Files (x86)\Steam\steamapps\common\SoW1 Project`
-4. 일러스트 변경(512개)과 일본어 음성 변경(64개) 중 원하는 항목을 선택합니다.
+4. 일러스트 변경(512개)과 일본어 음성 변경(64개) 중 원하는 항목을 선택합니다. 강인한 여성 모드는 일러스트와 함께 선택하며, 옆의 미리보기에서 3캐릭터의 전후 일러스트를 볼 수 있습니다.
 5. **선택 항목 설치**를 누르고 완료될 때까지 기다립니다.
 
 기존 사용자도 같은 방법으로 업데이트합니다. 기존 1.0.0 일러스트 설치는 원본 백업을 유지한 채 갱신합니다. **이전에 적용한 항목을 체크 해제하고 설치하면 해당 항목이 원본으로 복원됩니다.**
@@ -41,7 +37,7 @@ Releases의 `TA-KU-mode-1.0.2.zip`을 받으세요. `Source code` 파일은 설�
 ## 복원 및 참고
 
 - 설치기의 **모두 원본 복원**을 사용하거나, 복원할 항목을 체크 해제하고 설치하세요.
-- 설치 프로그램, `assets`, `manifest.json`, `CREDITS.txt`를 함께 보관하세요.
+- 설치 프로그램, `assets`, `variants`, `manifest.json`, `CREDITS.txt`를 함께 보관하세요.
 - Steam 파일 검사 또는 게임 업데이트 후에는 모드를 다시 설치해야 합니다.
 - 다른 모드가 같은 파일을 변경한 경우 설치가 중단됩니다.
 - 저장 파일과 게임 스크립트는 변경하지 않습니다.
