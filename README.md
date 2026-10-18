@@ -4,6 +4,7 @@ SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모�
 
 <table>
 <tr><td><img src="images/hero-f-before.png" width="400" alt=""></td><td><img src="images/hero-f-after.png" width="400" alt=""></td></tr>
+<tr><td><img src="images/hero-m-before.png" width="400" alt=""></td><td><img src="images/hero-m-after.png" width="400" alt=""></td></tr>
 <tr><td><img src="images/title-base-before.png" width="400" alt=""></td><td><img src="images/title-base-after.png" width="400" alt=""></td></tr>
 <tr><td><img src="images/title-legends-before.png" width="400" alt=""></td><td><img src="images/title-legends-after.png" width="400" alt=""></td></tr>
 </table>
@@ -18,12 +19,12 @@ SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모�
 <!-- installer-preview-103 -->
 ## 강인한 여성 모드 미리보기
 
-왼쪽은 기본 모드, 오른쪽은 강인한 여성 모드입니다. 다이애나·나리마·베아트리체 순서입니다.
+왼쪽부터 **게임 원본 / 기본 일러모드 / 강인한 여성 모드**입니다. 다이애나·나리마·베아트리체 순서입니다.
 
 <table>
-<tr><td><img src="images/strong-women/diana-basic.png" width="400" alt=""></td><td><img src="images/strong-women/diana-strong.png" width="400" alt=""></td></tr>
-<tr><td><img src="images/strong-women/narima-basic.png" width="400" alt=""></td><td><img src="images/strong-women/narima-strong.png" width="400" alt=""></td></tr>
-<tr><td><img src="images/strong-women/beatrix-basic.png" width="400" alt=""></td><td><img src="images/strong-women/beatrix-strong.png" width="400" alt=""></td></tr>
+<tr><td><img src="images/strong-women/diana-original.png" width="260" alt=""></td><td><img src="images/strong-women/diana-basic.png" width="260" alt=""></td><td><img src="images/strong-women/diana-strong.png" width="260" alt=""></td></tr>
+<tr><td><img src="images/strong-women/narima-original.png" width="260" alt=""></td><td><img src="images/strong-women/narima-basic.png" width="260" alt=""></td><td><img src="images/strong-women/narima-strong.png" width="260" alt=""></td></tr>
+<tr><td><img src="images/strong-women/beatrix-original.png" width="260" alt=""></td><td><img src="images/strong-women/beatrix-basic.png" width="260" alt=""></td><td><img src="images/strong-women/beatrix-strong.png" width="260" alt=""></td></tr>
 </table>
 
 <!-- /installer-preview-103 -->
