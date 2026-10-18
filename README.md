@@ -2,25 +2,11 @@
 
 SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모드입니다.
 
-## 게임 원본 / 수정 버전
-
-### 여주인공 · large_portrait_hero_f.png
-
-| 게임 원본 | 수정 버전 |
-|---|---|
-| ![여주인공 게임 원본](images/hero-f-before.png) | ![여주인공 수정 버전](images/hero-f-after.png) |
-
-### 타이틀 · 일반판
-
-| 게임 원본 | 수정 버전 |
-|---|---|
-| ![일반판 타이틀 원본](images/title-base-before.png) | ![일반판 타이틀 수정](images/title-base-after.png) |
-
-### 타이틀 · LEGENDS
-
-| 게임 원본 | 수정 버전 |
-|---|---|
-| ![LEGENDS 타이틀 원본](images/title-legends-before.png) | ![LEGENDS 타이틀 수정](images/title-legends-after.png) |
+<table>
+<tr><td><img src="images/hero-f-before.png" width="400" alt=""></td><td><img src="images/hero-f-after.png" width="400" alt=""></td></tr>
+<tr><td><img src="images/title-base-before.png" width="400" alt=""></td><td><img src="images/title-base-after.png" width="400" alt=""></td></tr>
+<tr><td><img src="images/title-legends-before.png" width="400" alt=""></td><td><img src="images/title-legends-after.png" width="400" alt=""></td></tr>
+</table>
 
 ## 1.0.2 변경 사항
 
