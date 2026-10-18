@@ -38,3 +38,5 @@ Releases의 `TA-KU-mode-1.0.1.zip`을 받으세요. `Source code` 파일은 설�
 ## 변경 내역과 문의
 
 [버전별 변경 내역](https://github.com/greedThread/takumode_symphony_of_war/releases) · [문제 제보](https://github.com/greedThread/takumode_symphony_of_war/issues)
+
+문의 이메일: [greed.thread@gmail.com](mailto:greed.thread@gmail.com)
