@@ -18,7 +18,7 @@ SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모�
 <!-- installer-preview-103 -->
 ## 강인한 여성 모드 미리보기
 
-설치기의 미리보기와 같은 실제 일러스트입니다. 왼쪽은 기본 모드, 오른쪽은 강인한 여성 모드입니다. 다이애나·나리마·베아트리체 순서입니다.
+왼쪽은 기본 모드, 오른쪽은 강인한 여성 모드입니다. 다이애나·나리마·베아트리체 순서입니다.
 
 <table>
 <tr><td><img src="images/strong-women/diana-basic.png" width="400" alt=""></td><td><img src="images/strong-women/diana-strong.png" width="400" alt=""></td></tr>
