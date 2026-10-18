@@ -1,18 +1,12 @@
-# TA-KU mode · Symphony of War
+# Symphony Of War TA-KU mode 1.0.1
 
-일러스트와 일본어 음성을 원하는 조합으로 선택해 적용하는 모드입니다.
+SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모드입니다.
 
 ## 다운로드
 
-**[최신 버전 다운로드 및 변경 내용](https://github.com/greedThread/takumode_symphony_of_war/releases/latest)**
+**[최신 버전 다운로드](https://github.com/greedThread/takumode_symphony_of_war/releases/latest)**
 
 Releases의 `TA-KU-mode-1.0.1.zip`을 받으세요. `Source code` 파일은 설치 패키지가 아닙니다.
-
-## 1.0.1 변경 내용
-
-- 다이애나 일반 버전의 날씬한 체형·맨팔 수정
-- 젤로스 A 저음 반영
-- 남녀 주인공 음성은 1.0 선택 유지
 
 ## 설치 및 업데이트
 
@@ -35,8 +29,15 @@ Releases의 `TA-KU-mode-1.0.1.zip`을 받으세요. `Source code` 파일은 설�
 - 저장 파일과 게임 스크립트는 변경하지 않습니다.
 - 일본어 음성은 VOICEVOX 합성 음성입니다. 상세 크레딧은 패키지의 `CREDITS.txt`를 확인하세요.
 
-## 변경 내역과 문의
+## 향후 방향
 
-[버전별 변경 내역](https://github.com/greedThread/takumode_symphony_of_war/releases) · [문제 제보](https://github.com/greedThread/takumode_symphony_of_war/issues)
+- 지속적인 리소스 조정 및 리터칭 예정
+- 도트 및 시각 효과 개선
 
-문의 이메일: [greed.thread@gmail.com](mailto:greed.thread@gmail.com)
+현재까지는 AI만을 사용하여 제작했습니다. 추후 직접 리터칭하거나 수정할 예정이지만, 빠른 대응은 어려울 수 있습니다.
+
+## 문의
+
+일부 일러스트가 깨지거나 동작 버그가 발생하면 문제 제보 부탁드립니다.
+
+[문제 제보](https://github.com/greedThread/takumode_symphony_of_war/issues) · 문의 이메일: [greed.thread@gmail.com](mailto:greed.thread@gmail.com)
