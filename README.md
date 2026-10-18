@@ -15,6 +15,19 @@ SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모�
 
 ![게임 적용 화면](images/gameplay-1.0.3.png)
 
+<!-- installer-preview-103 -->
+## 강인한 여성 모드 미리보기
+
+설치기의 미리보기와 같은 실제 일러스트입니다. 왼쪽은 기본 모드, 오른쪽은 강인한 여성 모드입니다. 다이애나·나리마·베아트리체 순서입니다.
+
+<table>
+<tr><td><img src="images/strong-women/diana-basic.png" width="400" alt=""></td><td><img src="images/strong-women/diana-strong.png" width="400" alt=""></td></tr>
+<tr><td><img src="images/strong-women/narima-basic.png" width="400" alt=""></td><td><img src="images/strong-women/narima-strong.png" width="400" alt=""></td></tr>
+<tr><td><img src="images/strong-women/beatrix-basic.png" width="400" alt=""></td><td><img src="images/strong-women/beatrix-strong.png" width="400" alt=""></td></tr>
+</table>
+
+<!-- /installer-preview-103 -->
+
 ## 다운로드
 
 **[최신 버전 다운로드](https://github.com/greedThread/takumode_symphony_of_war/releases/latest)**
