@@ -31,7 +31,8 @@ Releases의 `TA-KU-mode-1.0.2.zip`을 받으세요. `Source code` 파일은 설�
 
 1. 게임을 종료하고 ZIP을 모두 압축 해제합니다.
 2. `TA-KU-mode-Installer.exe`를 실행합니다.
-3. `Game.rgss3a`가 있는 게임 폴더를 선택합니다.
+3. SymphonyOfWar가 설치되어 있는 폴더를 선택합니다.
+   예: `C:\Program Files (x86)\Steam\steamapps\common\SoW1 Project`
 4. 일러스트 변경(512개)과 일본어 음성 변경(64개) 중 원하는 항목을 선택합니다.
 5. **선택 항목 설치**를 누르고 완료될 때까지 기다립니다.
 
