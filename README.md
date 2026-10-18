@@ -36,8 +36,10 @@ Releases의 `TA-KU-mode-1.0.1.zip`을 받으세요. `Source code` 파일은 설�
 
 현재까지는 AI만을 사용하여 제작했습니다. 추후 직접 리터칭하거나 수정할 예정이지만, 빠른 대응은 어려울 수 있습니다.
 
-## 문의
+## 버그 및 문의
 
 일부 일러스트가 깨지거나 동작 버그가 발생하면 문제 제보 부탁드립니다.
+
+이미지나 캐릭터 명을 알려주시면 더 빠르게 확인 대응이 가능합니다. 감사합니다.
 
 [문제 제보](https://github.com/greedThread/takumode_symphony_of_war/issues) · 문의 이메일: [greed.thread@gmail.com](mailto:greed.thread@gmail.com)
