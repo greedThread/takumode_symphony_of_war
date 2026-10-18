@@ -1,0 +1,40 @@
+# TA-KU mode · Symphony of War
+
+일러스트와 일본어 음성을 원하는 조합으로 선택해 적용하는 모드입니다.
+
+## 다운로드
+
+**[최신 버전 다운로드 및 변경 내용](https://github.com/greedThread/takumode_symphony_of_war/releases/latest)**
+
+Releases의 `TA-KU-mode-1.0.1.zip`을 받으세요. `Source code` 파일은 설치 패키지가 아닙니다.
+
+## 1.0.1 변경 내용
+
+- 다이애나 일반 버전의 날씬한 체형·맨팔 수정
+- 젤로스 A 저음 반영
+- 남녀 주인공 음성은 1.0 선택 유지
+
+## 설치 및 업데이트
+
+지원 버전: **1.10.23 LEGENDS**. 원본 게임이 필요합니다.
+
+1. 게임을 종료하고 ZIP을 모두 압축 해제합니다.
+2. `TA-KU-mode-Installer.exe`를 실행합니다.
+3. `Game.rgss3a`가 있는 게임 폴더를 선택합니다.
+4. 일러스트 변경(511개)과 일본어 음성 변경(64개) 중 원하는 항목을 선택합니다.
+5. **선택 항목 설치**를 누르고 완료될 때까지 기다립니다.
+
+기존 사용자도 같은 방법으로 업데이트합니다. 기존 1.0.0 일러스트 설치는 원본 백업을 유지한 채 갱신합니다. **이전에 적용한 항목을 체크 해제하고 설치하면 해당 항목이 원본으로 복원됩니다.**
+
+## 복원 및 참고
+
+- 설치기의 **모두 원본 복원**을 사용하거나, 복원할 항목을 체크 해제하고 설치하세요.
+- 설치 프로그램, `assets`, `manifest.json`, `CREDITS.txt`를 함께 보관하세요.
+- Steam 파일 검사 또는 게임 업데이트 후에는 모드를 다시 설치해야 합니다.
+- 다른 모드가 같은 파일을 변경한 경우 설치가 중단됩니다.
+- 저장 파일과 게임 스크립트는 변경하지 않습니다.
+- 일본어 음성은 VOICEVOX 합성 음성입니다. 상세 크레딧은 패키지의 `CREDITS.txt`를 확인하세요.
+
+## 변경 내역과 문의
+
+[버전별 변경 내역](https://github.com/greedThread/takumode_symphony_of_war/releases) · [문제 제보](https://github.com/greedThread/takumode_symphony_of_war/issues)
