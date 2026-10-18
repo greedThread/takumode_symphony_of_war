@@ -1,21 +1,52 @@
-# Symphony Of War TA-KU mode 1.0.1
+# Symphony Of War TA-KU mode 1.0.2
 
 SymphonyOfWar의 JRPG 스타일의 일러스트 변경 및 보이스 추가 모드입니다.
+
+## 게임 원본 / 수정 버전
+
+### 여주인공 · large_portrait_hero_f.png
+
+| 게임 원본 | 수정 버전 |
+|---|---|
+| ![여주인공 게임 원본](images/hero-f-before.png) | ![여주인공 수정 버전](images/hero-f-after.png) |
+
+### 타이틀 · 일반판
+
+| 게임 원본 | 수정 버전 |
+|---|---|
+| ![일반판 타이틀 원본](images/title-base-before.png) | ![일반판 타이틀 수정](images/title-base-after.png) |
+
+### 타이틀 · LEGENDS
+
+| 게임 원본 | 수정 버전 |
+|---|---|
+| ![LEGENDS 타이틀 원본](images/title-legends-before.png) | ![LEGENDS 타이틀 수정](images/title-legends-after.png) |
+
+## 1.0.2 변경 사항
+
+변경 사항
+- 일러스트 위치 조정
+- 원본 캐릭터의 나이와 맞지않는 묘사에 대한 수정
+
+버그 수정
+- 일반판에서 동작하지 않는 문제 수정
+
+설치 시 일반판 / LEGENDS 원본을 자동 판단해 적용합니다.
 
 ## 다운로드
 
 **[최신 버전 다운로드](https://github.com/greedThread/takumode_symphony_of_war/releases/latest)**
 
-Releases의 `TA-KU-mode-1.0.1.zip`을 받으세요. `Source code` 파일은 설치 패키지가 아닙니다.
+Releases의 `TA-KU-mode-1.0.2.zip`을 받으세요. `Source code` 파일은 설치 패키지가 아닙니다.
 
 ## 설치 및 업데이트
 
-지원 버전: **1.10.23 LEGENDS**. 원본 게임이 필요합니다.
+지원 버전: **1.10.23 일반판(DLC 없음) / LEGENDS**. 원본 게임이 필요합니다.
 
 1. 게임을 종료하고 ZIP을 모두 압축 해제합니다.
 2. `TA-KU-mode-Installer.exe`를 실행합니다.
 3. `Game.rgss3a`가 있는 게임 폴더를 선택합니다.
-4. 일러스트 변경(511개)과 일본어 음성 변경(64개) 중 원하는 항목을 선택합니다.
+4. 일러스트 변경(512개)과 일본어 음성 변경(64개) 중 원하는 항목을 선택합니다.
 5. **선택 항목 설치**를 누르고 완료될 때까지 기다립니다.
 
 기존 사용자도 같은 방법으로 업데이트합니다. 기존 1.0.0 일러스트 설치는 원본 백업을 유지한 채 갱신합니다. **이전에 적용한 항목을 체크 해제하고 설치하면 해당 항목이 원본으로 복원됩니다.**
